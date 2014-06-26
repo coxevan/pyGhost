@@ -11,4 +11,4 @@ reload(PyGhost)
 
 Note!
 =====
-The UI for PyGhost is still in development. But the core functionality is there. Please be patient while I construct a great experience!
+The UI for PyGhost is still in development, but the core functionality is there and usable. Please be patient while I construct a great experience!
