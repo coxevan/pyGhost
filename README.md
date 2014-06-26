@@ -8,3 +8,7 @@ To install, move the folder containing PyGhost into the Maya Python search path 
 import PyGhost
 
 reload(PyGhost)
+
+Note!
+=====
+The UI for PyGhost is still in development. But the core functionality is there. Please be patient while I construct a great experience!
